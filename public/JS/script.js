@@ -113,6 +113,27 @@ const users = [
 // replace the box brackets with new Array ()
 
   
+
+  // String Method
+
+let fullName = "elorm ackwerh"
+fullName.length
+fullName.toUpperCase()
+fullName.toLowerCase()
+fullName.charAt(3)
+fullName.slice(6,13)
+fullName.split("")
+fullName.replace("ackwerh", "wuaku")
+fullName.indexOf("lor")
+
+//string conversion
+Number("3.243")
+parseInt("3.243")
+parseFloat("3.243")
+let amount = 18000
+console.log(`GHS${amount}`)
+amount.toString()
+  
   
   
   
